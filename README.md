@@ -51,7 +51,7 @@ capstone_project/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/AnikHC/Capstone_LLM_project
 cd capstone_project
 ```
 
